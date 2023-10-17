@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Deep learning advanced AI**
+- 👯 I’m looking to collaborate on **Deep Learning and Advanced AI**
 
 - 🤝 I’m looking for help with **Azure Data Engineering, BI Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rganesh203/Spark_NSE_Real_Time_Streaming](https://github.com/rganesh203/Spark_NSE_Real_Time_Streaming)
+- 👨‍💻 All of my projects are available at [https://github.com/rganesh203/
 
 - 📫 How to reach me **rganesh0203@gmail.com**
 
