@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Corporate IT sector**
+- 🔭 I’m currently working on **Corporate IT Sector**
 
 - 🌱 I’m currently learning **AWS and Big Data Architecture**
 
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Azure Data Engineering, BI Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rganesh203/
+- 👨‍💻 All of my projects are available at https://github.com/rganesh203/
 
-- 📫 How to reach me **rganesh0203@gmail.com, 9030485102**
+- 📫 How to reach me **rganesh0203@gmail.com, #9030485102**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
