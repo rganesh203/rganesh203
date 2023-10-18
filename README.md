@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Corporate IT sector**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS and Big Data Architecture**
 
 - 👯 I’m looking to collaborate on **Deep Learning and Advanced AI**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rganesh203/
 
-- 📫 How to reach me **rganesh0203@gmail.com**
+- 📫 How to reach me **rganesh0203@gmail.com, 9030485102**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
