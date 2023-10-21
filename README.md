@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm RGanesh0203</h1>
 <h3 align="center">A passionate about Data Driven Technologies from India</h3>
+<img align ="right" alt="coding" width="400" src="https://user-
+images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gifr">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh" /> </p>
 
@@ -7,22 +9,22 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Corporate IT Sector**
+- 🔭 I’m currently working on **Corporate IT sector**
 
-- 🌱 I’m currently learning **AWS and Big Data Architecture**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Deep Learning and Advanced AI**
+- 👯 I’m looking to collaborate on **Deep learning advanced AI**
 
 - 🤝 I’m looking for help with **Azure Data Engineering, BI Developer**
 
-- 👨‍💻 All of my projects are available at https://github.com/rganesh203/
+- 👨‍💻 All of my projects are available at (https://github.com/rganesh203/)
 
-- 📫 How to reach me **rganesh0203@gmail.com, #9030485102**
+- 📫 How to reach me **rganesh0203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-r-a86418155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganesh-r-a86418155/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/data_dynamics_aspirants/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/data_dynamics_aspirants/" height="30" width="40" /></a>
+<a href="ganesh-r-a86418155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-r-a86418155/" height="30" width="40" /></a>
+<a href="data_dynamics_aspirants" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data_dynamics_aspirants" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh&show_icons=true&locale=en" alt="ganesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh&" alt="ganesh" /></p>
+
