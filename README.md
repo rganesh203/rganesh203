@@ -1,7 +1,7 @@
 ![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape)).jpg)
 <h1 align="center">Hi 👋, I'm RGanesh0203</h1>
 <h3 align="center">A passionate about Data Driven Technologies from India</h3>
-<p img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Deep learning advanced AI**
+- 👯 I’m looking to collaborate on **Adavnced Machine Learning and AI**
 
 - 🤝 I’m looking for help with **Azure Data Engineering, BI Developer**
 
