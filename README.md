@@ -54,6 +54,7 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
   </a> 
 </div>
 
+
 <div align="center">
 <h2 align="center">Languages-Frameworks and Tools:</h2>
 <br/>
