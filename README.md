@@ -10,21 +10,14 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 </h1>
 <h3 align="center">A passionate about Data Driven Technologies, from India</h3>
 <p img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ganesh&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh" alt="ganesh" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Corporate IT Sector**
-
 - 🌱 I’m currently learning **AWS**
-
 - 👯 I’m looking to collaborate on **Adavnced Machine Learning and AI**
-
 - 🤝 I’m looking for help with **Azure Data Engineering, BI Developer**
-
 - 👨‍💻 All of my projects are available at [here](https://github.com/rganesh203/)
 
 </div>
