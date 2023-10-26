@@ -1,7 +1,6 @@
 ![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape))%20(1).jpg)
 
 <img align="right" src="https://visitor-badge.loabi.icu/badge?page_id=rganesh203.rganesh203" />
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
