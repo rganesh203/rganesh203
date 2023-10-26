@@ -1,4 +1,6 @@
 ![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape))%20(1).jpg)
+
+<img align="right" src="https://visitor-badge.loabi.icu/badge?page_id=rganesh203.rganesh203" />
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <h1 align="center">
@@ -41,15 +43,7 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh&" alt="ganesh" /></p>
 
-  uses: actions/checkout@v3
 
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v2
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
