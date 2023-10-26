@@ -1,8 +1,11 @@
 ![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape))%20(1).jpg)
+</h1>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
+<br/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&font=60&center=true&random=false&width=500&height=70&lines=Hi+there!+👋+I'm+R+Ganesh" alt="Typing SVG" /></a>
+<br/>
 
 <h3 align="center">A passionate about Data Driven Technologies, from India</h3>
 <p img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
