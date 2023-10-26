@@ -56,11 +56,12 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
       
 <h2 align="center">Languages-Frameworks and Tools:</h2>
 <br/>
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?C,python,SQL-Sever,My-SQL,Cassendra,PowerBI,Linux,github,Arduino,docker"     /><br>
+    <img src="https://skillicons.dev/icons?i=C,python,SQL,Linux,Arduino,Azure,AWS,Github" /><br>
+     <img src="https://skillicons.dev/icons?i=C,python,SQL,Linux,Arduino,Azure,AWS,Github" />
   </a>
-</div>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh&show_icons=true&locale=en&layout=compact" alt="ganesh" /></p>
 
