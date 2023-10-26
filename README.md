@@ -1,7 +1,7 @@
 ![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape))%20(1).jpg)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
-font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋, I'm R+Ganesh!;/>
+font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋, I'm R+Ganesh!;/> </h1>
 <h3 align="center">A passionate about Data Driven Technologies from India</h3>
 <p img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
