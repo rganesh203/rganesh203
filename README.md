@@ -28,16 +28,20 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 - 👨‍💻 All of my projects are available at [here](https://github.com/rganesh203/)
 
 </div>
-<div align=
+
+<div align="center">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:rganesh0203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   
-<a href="ganesh-r-a86418155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-r-a86418155/" height="30" width="40" /></a>
-<a href="rg_data_talks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rg_data_talks" height="30" width="40" /></a>
+  <a href="https://in.https://in.linkedin.com/in/r-ganesh-a86418155/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="rg_data_talks" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rg_data_talks" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
