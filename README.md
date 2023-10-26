@@ -53,7 +53,8 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank />
   </a> 
 </div>
-      
+
+<div align="center">
 <h2 align="center">Languages-Frameworks and Tools:</h2>
 <br/>
 <p align="center">
@@ -62,6 +63,7 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
     <img src="https://skillicons.dev/icons?i=tensorflow,vscode,vim,raspberrypi,kafka," />
   </a>
 </p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh&show_icons=true&locale=en&layout=compact" alt="ganesh" /></p>
 
