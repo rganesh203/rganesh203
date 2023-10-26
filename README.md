@@ -60,13 +60,6 @@
   </a>
 </div>
 
-<div align="center">
-	<h2 🐍 My Contributions 🐍</h2>
-	<hr> 
-	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rganesh203/rganesh203/output/github-contribution-grid-snake.svg" />
-	<br/><br/><br/<
-</div>
-		
 <hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh&show_icons=true&locale=en&layout=compact" alt="ganesh" /></p>
