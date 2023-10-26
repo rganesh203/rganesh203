@@ -60,7 +60,7 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,mysql,linux,arduino,azure,github,cassadra,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,mysql,linux,arduino,azure,github,cassandra,ai" /><br>
     <img src="https://skillicons.dev/icons?i=aws,tensorflow,vscode,vim,raspberrypi,kafka," />
   </a>
 </p>
