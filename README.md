@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vcenter=true&random=false&width=435&lines=Hi+There!+👋,+I'm+R+Ganesh!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vcenter=false&random=false&width=435&lines=Hi+There!+👋,+I'm+R+Ganesh!)](https://git.io/typing-svg)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
