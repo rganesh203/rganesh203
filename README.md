@@ -40,8 +40,11 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
   <a href="https://in.linkedin.com/in/r-ganesh-a86418155/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="rg_data_talks" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rg_data_talks" height="30" width="40" />
+  
+  <a href="https://www.instagram.com/rg_data_talks/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank />
   </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
