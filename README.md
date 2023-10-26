@@ -25,14 +25,14 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 
 - 🤝 I’m looking for help with **Azure Data Engineering, BI Developer**
 
-- 👨‍💻 All of my projects are available at (https://github.com/rganesh203/)
+- 👨‍💻 All of my projects are available at [here](https://github.com/rganesh203/)
 
 - 📫 How to reach me **rganesh0203@gmail.com** +91-9030485102
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="ganesh-r-a86418155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-r-a86418155/" height="30" width="40" /></a>
-<a href="data_dynamics_aspirants" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data_dynamics_aspirants" height="30" width="40" /></a>
+<a href="rg_data_talks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rg_data_talks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,11 +45,4 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh&" alt="ganesh" /></p>
 
 
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Show build status
-        run: git status
+           
