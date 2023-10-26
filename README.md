@@ -55,7 +55,14 @@
 </p>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<hr/>
+<div align="center">
+	<h2 🐍 My Contributions 🐍</h2>
+	<hr> 
+	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rganesh203/rganesh203/output/github-contribution-grid-snake.svg" />
+	<br/><br/><br/<
+</div>
 
+<hr/>
 
            
