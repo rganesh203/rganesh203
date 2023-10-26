@@ -52,7 +52,7 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
   <a href="https://www.facebook.com/profile.php?id=61552845922748" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank />
   </a>
-  
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
