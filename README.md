@@ -32,7 +32,7 @@ font=Rightous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto.pedro.rganesh0203@gmail.com">
+  <a href="mailto:rganesh0203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
