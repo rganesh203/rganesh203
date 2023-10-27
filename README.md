@@ -62,7 +62,7 @@
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGanesh&theme=aura)](https://github.com/rganesh203/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGanesh)](https://github.com/rganesh203/github-readme-stats)
 
 ![RGanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGanesh&theme=neon&show_icons=true)
 
