@@ -63,7 +63,7 @@
 <hr/>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ganesh)](https://github.com/rganesh203/github-readme-stats)
+[![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=Python,SQL,Linux,PowerBI,jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/rganesh)
 
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&theme=neon&show_icons=true)
 
