@@ -63,7 +63,7 @@
 <hr/>
 
 
-[![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ganesh&hide=Python,SQL,Linux,PowerBI,jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/rganesh)
+[![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rganesh203&hide=Python,SQL,Linux,PowerBI,jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/rganesh203)
 
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&theme=neon&show_icons=true)
 
