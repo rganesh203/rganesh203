@@ -64,7 +64,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rganesh203)](https://github.com/rganesh203/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh&show_icons=true&locale=en" alt="ganesh" /></p>
+![RGanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&theme=neon&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
