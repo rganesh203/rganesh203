@@ -62,9 +62,9 @@
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGanesh)](https://github.com/rganesh203/github-readme-stats)
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&show_icons=true&bg_color=00000000)
 
-![RGanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGanesh&theme=neon&show_icons=true)
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&theme=neon&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
