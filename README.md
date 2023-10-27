@@ -62,7 +62,7 @@
 
 <hr/>
 
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh&hide=Python,SQL,Linux,PowerBI&theme=tokyonight)
 
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh&theme=neon&show_icons=true)
 
