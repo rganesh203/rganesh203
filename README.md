@@ -66,7 +66,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh&show_icons=true&locale=en" alt="ganesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh&" alt="ganesh" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 
