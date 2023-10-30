@@ -1,4 +1,4 @@
-![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Dance%20Channel%20Youtube%20Banner%20(1).png)
+![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape)).png)
 </div>
 </h1>
 
