@@ -57,8 +57,6 @@
 
 [![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rganesh203&hide=shell,jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/rganesh203)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rganesh203)](https://github.com/rganesh203)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/rganesh203)
 
 
