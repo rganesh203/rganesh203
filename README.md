@@ -39,8 +39,8 @@ I spend the majority of my free time:
 	**Deep Learning**
 	**Data Science**
 	**Natural Language Processing**
-   	**Artificial Intelligence**
-  	**Manual Testing**
+	**Artificial Intelligence**
+	**Manual Testing**
 	  	 
 - 🔭 I’m currently working on **Corporate IT Sector**
 - 🌱 I’m currently learning **AWS**
