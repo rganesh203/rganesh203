@@ -20,20 +20,20 @@ I spend the majority of my free time:
 
 Contributing to various open-source projects using and/or relating to:
 	
- **Power_BI**
- **SQL_Server**
- **Azure Data Driven Technologies**
- **Statistics**
- **Linear_Algebra**
- **Power_Apps**
- **Power_Automate**
- **Python**
- **Linux**
- **IOT**
- **AWS**
- **NO_SQL**
- **Raspberry_Pi**
- **Arduino**
+	 **Power_BI**
+	 **SQL_Server**
+	 **Azure Data Driven Technologies**
+	 **Statistics**
+	 **Linear_Algebra**
+	 **Power_Apps**
+	 **Power_Automate**
+	 **Python**
+	 **Linux**
+	 **IOT**
+	 **AWS**
+	 **NO_SQL**
+	 **Raspberry_Pi**
+	 **Arduino**
  
 - 🔭 I’m currently working on **Corporate IT Sector**
 - 🌱 I’m currently learning **AWS**
