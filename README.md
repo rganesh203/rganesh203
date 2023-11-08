@@ -19,7 +19,8 @@
 I spend the majority of my free time:
 
     Contributing to various open-source projects using and/or relating to:
-		**Power BI**
+	
+ **Power BI**
         **SQL Server**
         **Azure Data Driven Technologies**
         **Statistics**
