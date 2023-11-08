@@ -18,7 +18,7 @@
 
 I spend the majority of my free time:
 
-	Contributing to various open-source projects using and/or relating to:
+Contributing to various open-source projects using and/or relating to:
 	
 	**Power_BI**
 	**SQL (SQL_Server, MySQL)**
