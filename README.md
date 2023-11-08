@@ -25,10 +25,8 @@ Contributing to various open-source projects using and/or relating to:
 	**Cloud Data Driven Technologies(Azure, AWS)**
 	**Statistics**
 	**Linear_Algebra**
-	**Power_Apps**
-	**Power_Automate**
-	**Power BI**
- 	**Tableau**
+	**Power_Platform(Power_Apps, Power_Automate)**
+	**BI Tools(Power BI, Tableau)**
 	**Linux**
 	**NO_SQL(Cassandra)**
 	**IOT(Raspberry_Pi and Arduino)**
