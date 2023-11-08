@@ -36,7 +36,7 @@ I spend the majority of my free time:
 		 **Arduino**
    		 **Exploratory Data Analysis**
    		 **Machine Learning**
-      		 **Deep Learning**
+       		 **Deep Learning**
  		 **Data Science**
     		 **Natural Language Processing**
        		 **Artificial Intelligence**
