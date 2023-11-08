@@ -20,20 +20,22 @@ I spend the majority of my free time:
 
 Contributing to various open-source projects using and/or relating to:
 	
-	**Power_BI**
-	**SQL (SQL_Server, MySQL)**
-	**Azure Data Driven Technologies**
+	**Python**
+	**SQL(SQL_Server, MySQL)**
+	**Cloud Data Driven Technologies(Azure, AWS)**
 	**Statistics**
 	**Linear_Algebra**
 	**Power_Apps**
 	**Power_Automate**
-	**Python**
+	**Power BI**
+ 	**Tableau**
 	**Linux**
-	**IOT**
-	**AWS**
 	**NO_SQL(Cassandra)**
-	**Raspberry_Pi**
-	**Arduino**
+	**IOT(Raspberry_Pi and Arduino)**
+	**Apache_Airflow**
+ 	**Apache_Pyspark**
+  	**DataBricks**
+   	**Data_WareHouse**
 	**Exploratory Data Analysis**
 	**Machine Learning**
 	**Deep Learning**
@@ -41,6 +43,7 @@ Contributing to various open-source projects using and/or relating to:
 	**Natural Language Processing**
 	**Artificial Intelligence**
 	**Manual Testing**
+ 	**Devops**
 	  	 
 - 🔭 I’m currently working on **Corporate IT Sector**
 - 🌱 I’m currently learning **AWS**
