@@ -33,14 +33,14 @@ Contributing to various open-source projects using and/or relating to:
 	**Apache_Airflow**
  	**Apache_Pyspark**
   	**DataBricks**
-   	**Data_WareHouse**
+   	**SnowFlake**
 	**Exploratory Data Analysis**
 	**Machine Learning**
 	**Deep Learning**
 	**Data Science**
 	**Natural Language Processing**
 	**Artificial Intelligence**
-	**Manual Testing**
+	**Unit Testing**
  	**Devops**
 	  	 
 - 🔭 I’m currently working on **Corporate IT Sector**
