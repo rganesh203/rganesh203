@@ -20,28 +20,25 @@ I spend the majority of my free time:
 
 Contributing to various open-source projects using and/or relating to:
 	
-		**Python**
+		**Python(Pandas, Numpy, Seaborn and Matplotlib)**
 		**SQL(SQL_Server, MySQL)**
 		**Cloud Data Driven Technologies(Azure, AWS)**
-		**Statistics**
-		**Linear_Algebra**
-		**Power_Platform(Power_Apps, Power_Automate)**
+		**Statistics and Linear_Algebra**
+		**Power_Platform(Power_Automate)**
 		**BI Tools(Power BI, Tableau)**
 		**Linux**
 		**NO_SQL(Cassandra)**
 		**IOT(Raspberry_Pi and Arduino)**
 		**Apache_Airflow**
-	 	**Apache_Pyspark**
 	  	**DataBricks**
 	   	**SnowFlake**
-		**Exploratory Data Analysis**
+		**Data Analysis**
 		**Machine Learning**
 		**Deep Learning**
 		**Data Science**
 		**Natural Language Processing**
 		**Artificial Intelligence**
-		**Unit Testing**
-	 	**Devops**
+	 	**Azure CI/CD Devops**
 	  	 
 - 🔭 I’m currently working on **Corporate IT Sector**
 - 🌱 I’m currently learning **AWS**
