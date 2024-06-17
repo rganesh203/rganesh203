@@ -1,6 +1,4 @@
-![logo](![image](https://github.com/rganesh203/rganesh203/assets/68594076/042eb6e3-16ff-4aef-91f5-4e070174b735)
-)
-)
+![logo](![image](https://github.com/rganesh203/rganesh203/assets/68594076/45a1f288-3f3c-46d6-91db-75fd51a5489c)
 )
 </div>
 </h1>
