@@ -1,4 +1,5 @@
-![logo](https://github.com/rganesh203/rganesh203/blob/main/Blue%20Modern%20Travel%20(Banner%20(Landscape)).png)
+![logo](![image](https://github.com/rganesh203/rganesh203/assets/68594076/a389a7cc-b330-4db9-b7cd-1c7168f52e84)
+)
 </div>
 </h1>
 
