@@ -10,8 +10,7 @@
 </div>
 <br/>
 
-<h3 align="center">Passionate and Result Oriented Data Driven Technologies, Transforming Raw(messy) Data into use full Insights and Intelligent Decision Making Solutions, from India</h3>
-<img align="right" alt=coding" width="200" src="![image](https://github.com/rganesh203/rganesh203/assets/68594076/fe94b271-2aac-437e-8c62-6e1202b46965)">
+<h3 align="center">Passionate and Result Oriented Data Driven Technologies, Transforming Raw(messy) Data into use full Insights and Intelligent Decision Making Solutions, from India.</h3>
 
  <p img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ganesh&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh" /> </p>
@@ -27,7 +26,7 @@ Contributing to various open-source projects using and/or relating to:
 		**Cloud Data Driven Technologies(Azure, AWS)**
 		**Statistics and Linear_Algebra**
 		**Power_Platform(Power_Automate)**
-		**BI Tools(Power BI, Tableau)**
+		**BI Tools(Power BI)**
 		**Linux**
 		**NO_SQL(Cassandra)**
 		**IOT(Raspberry_Pi and Arduino)**
