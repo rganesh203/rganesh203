@@ -1,5 +1,4 @@
-![logo](![image](https://github.com/rganesh203/rganesh203/assets/68594076/45a1f288-3f3c-46d6-91db-75fd51a5489c)
-)
+![logo](https://github.com/rganesh203/rganesh203/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 </div>
 </h1>
 
