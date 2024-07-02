@@ -61,7 +61,7 @@ Contributing to various open-source projects using and/or relating to:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://topmate.io/ganesh_r0203">
-    <img src="https://img.shields.io/badge/TopMate-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank />
+    <img src="https://img.shields.io/badge/TopMate-FF0000?style=for-the-badge&logo=topmate&logoColor=white" target="_blank />
   </a>
       
 </div>
