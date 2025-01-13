@@ -84,6 +84,8 @@ Contributing to various open-source projects using and/or relating to:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/rganesh203)
 
+![snake gif](https://github.com/rganesh203/rganesh203/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
