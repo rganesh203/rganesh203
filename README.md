@@ -57,10 +57,10 @@ Contributing to various open-source projects using and/or relating to:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   
-  <a href="https://in.linkedin.com/in/r-ganesh-a86418155">
+  <a href="https://www.linkedin.com/in/rganesh0203/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://topmate.io/ganesh_r0203">
+    <a href="https://topmate.io/rganesh_0203">
     <img src="https://img.shields.io/badge/TopMate-FF0000?style=for-the-badge&logo=topmate&logoColor=white" target="_blank />
   </a>
       
