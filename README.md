@@ -26,13 +26,14 @@ Contributing to various open-source projects using and/or relating to:
 		**Cloud Data Driven Technologies(Azure, AWS)**
 		**Statistics and Linear_Algebra**
 		**Power_Platform(Power_Automate)**
-		**BI Tools(Power BI)**
+		**BI Tool(Power BI)**
 		**Linux**
 		**NO_SQL(Cassandra)**
 		**IOT(Raspberry_Pi and Arduino)**
 		**Apache_Airflow**
 	  	**DataBricks**
 	   	**SnowFlake**
+     		**Confluent Kafka**
 		**Data Analysis**
 		**Machine Learning**
 		**Deep Learning**
