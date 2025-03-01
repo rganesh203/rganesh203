@@ -33,7 +33,7 @@ Contributing to various open-source projects using and/or relating to:
 		**Apache_Airflow**
 	  	**DataBricks**
 	   	**SnowFlake**
-     		**Confluent Kafka**
+     	**Confluent Kafka**
 		**Data Analysis**
 		**Machine Learning**
 		**Deep Learning**
