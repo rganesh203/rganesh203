@@ -95,7 +95,7 @@ Contributing to various open-source projects using and/or relating to:
 <h2 align="center">⚒ Languages-Frameworks and Tools ⚒</h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,anaconda,vscode,mysql,ubuntu,azure,aws,kafka,cassandra,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=git,anaconda,vscode,mysql,ubuntu,azure,aws,kafka,cassandra,tensorflow,postman,pycharm,windows" />
 </p>
 
 
