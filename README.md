@@ -96,7 +96,7 @@ Contributing to various open-source projects using and/or relating to:
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,anaconda,vscode,mysql,ubuntu,azure,aws,kafka,cassandra,tensorflow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Databricks_Logo.png" alt="Databricks" width="48" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png />
 </p>
 
 
