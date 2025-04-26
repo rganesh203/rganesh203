@@ -92,8 +92,8 @@ Contributing to various open-source projects using and/or relating to:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,mysql,linux,arduino,azure,github,cassandra,ai" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,aws,tensorflow,vim,raspberrypi,kafka," />
+    <img src="https://skillicons.dev/icons?i=python,spark,mysql,linux,Azure,AWS,Azure Devops,CI/CD,cassandra,ai,ML,DS,DE" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,tensorflow,IOT,kafka," />
   </a>
 </div>
 
