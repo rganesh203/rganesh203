@@ -79,6 +79,10 @@ Contributing to various open-source projects using and/or relating to:
 <a href="https://www.instagram.com/rg_data_talks/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+<a href="https://discord.gg/uFkkwckK" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join us on Discord">
+</a>
+
 
 
 
@@ -91,9 +95,10 @@ Contributing to various open-source projects using and/or relating to:
 <h2 align="center">⚒ Languages-Frameworks and Tools ⚒</h2>
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,Apache-Spark,mysql,linux,azure,aws,azure-devops,cassandra,tensorflow,kafka,vscode" />
-</a>
+  <img src="https://skillicons.dev/icons?i=git,anaconda,vscode,mysql,ubuntu,azure,aws,kafka,cassandra,tensorflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Databricks_Logo.png" alt="Databricks" width="48" />
+</p>
+
 
   </a>
 </div>
