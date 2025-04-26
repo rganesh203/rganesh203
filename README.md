@@ -64,6 +64,14 @@ Contributing to various open-source projects using and/or relating to:
     <a href="https://topmate.io/rganesh_0203">
     <img src="https://img.shields.io/badge/TopMate-FF0000?style=for-the-badge&logo=topmate&logoColor=white" target="_blank />
   </a>
+  <a href="https://whatsapp.com/channel/0029VbAeK2VEVccKt8XRjo1e" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+  </a>
+  <a href="https://t.me/CareerBI" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+</a>
+
+
       
 </div>
 
