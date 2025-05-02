@@ -2,9 +2,7 @@
 </div>
 </h1>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
-</div>
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&font=60&center=true&random=false&width=500&height=70&lines=Hi+there!+👋+I'm+R+Ganesh" alt="Typing SVG" /></a>
 </div>
