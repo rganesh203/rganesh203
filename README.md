@@ -2,7 +2,42 @@
 </div>
 </h1>
 
-<h1 align="center">Hi 👋, I'm RGanesh0203</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Animated Intro</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #111;
+      color: white;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      animation: fadeInMove 2s ease-out forwards;
+      opacity: 0;
+      transform: translateY(-30px);
+    }
+
+    @keyframes fadeInMove {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi 👋, I'm R Ganesh</h1>
+</body>
+</html>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh" /> </p>
 
